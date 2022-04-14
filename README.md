@@ -1,1 +1,1 @@
-# Arduino_AC_Temp_Control
+Arduino Application To Check Temperature & Move A Servo
